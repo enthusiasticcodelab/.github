@@ -1,6 +1,4 @@
-<!--
-
-DO NOT IGNORE THE TEMPLATE!
+<!-- DO NOT IGNORE THE TEMPLATE!
 
 Thank you for contributing!
 
